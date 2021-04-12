@@ -1,0 +1,23 @@
+{"ImageList":[
+        {
+            "name":"girl1.jpg",
+            "time":3000
+        },
+        {
+            "name":"girl2.jpg",
+            "time":4000
+        },
+        {
+            "name":"girl3.jpg",
+            "time":3000
+        },
+        {
+            "name":"girl4.jpg",
+            "time":5000
+        },
+        {
+            "name":"girl5.jpg",
+            "time":4000
+        }
+    ]
+}
